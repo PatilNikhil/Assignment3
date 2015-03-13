@@ -3,7 +3,6 @@
 
 var http = require("http");
 var fs = require("fs");
-
 var Server = function() {
 	console.log("Server is running....");
 }
